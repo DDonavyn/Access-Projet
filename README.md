@@ -1,4 +1,4 @@
-# Access-Projet Everything I accomplished and learned with this Access Database.
+# Access-Project | Everything I accomplished and learned with this Access Database.
 Understanding what databases are and their role in data management.
 Learning the difference between flat-file databases and relational databases.
 Overview of database components: tables, queries, forms, and reports.
